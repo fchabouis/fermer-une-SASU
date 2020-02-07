@@ -6,7 +6,7 @@ J'ai fermé une SASU. Avant que je n'oublie, je vais récapituler ici **toutes l
 
 *disclaimer* : Je ne peux pas garantir que la même procédure marche pour tout le monde, ne suivez pas non plus aveuglement la procédure, elle peut changer ou varier d'un endroit à l'autre. Ensuite, ma SASU était un cas simple, dans la mesure ou je n'ai jamais gagné ou dépensé d'argent avec. Si vous avez des comptes à faire valider, ça peut compliquer l'affaire.
 
-J'ai mis les liens vers les documents à chaque fois. Sinon vous pouvez les consulter directement au dessus :arrow_up: en cliquant sur le dossier document.
+J'ai mis les liens vers les documents à chaque fois. Sinon vous pouvez les consulter directement au dessus :arrow_up: en cliquant sur le dossier [documents](https://github.com/fchabouis/fermer-une-SASU/tree/master/documents).
 
 Si vous avez des remarques ou des questions, vous pouvez écrire une [issue](https://github.com/fchabouis/fermer-une-SASU/issues/new). Mais n'oubliez pas, je suis le premier des handicapés administratif, pas un expert !
 
