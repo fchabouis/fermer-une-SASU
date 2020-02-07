@@ -2,7 +2,7 @@
 
 Fermer une entreprise, c'est pas marrant. Déjà parce qu'on ferme une entreprise, c'est pas cool, ensuite parce qu'il y a des démarches à faire, qu'elles sont compliquées, mal expliquées et coûteuses.
 
-J'ai fermé une SASU. Avant que je n'oublie, je vais récapituler ici toutes les étapes que j'ai suivies et je vais mettre en ligne tous mes documents en formulaires que j'ai envoyés à droite et à gauche, dans l'espoir que ça puisse faire gagner du temps et de la bonne humeur à quelqu'un :smiley:.
+J'ai fermé une SASU. Avant que je n'oublie, je vais récapituler ici **toutes les étapes** que j'ai suivies et je vais mettre en ligne **tous mes documents en formulaires** que j'ai envoyés à droite et à gauche, dans l'espoir que ça puisse faire gagner du temps et de la bonne humeur à quelqu'un :smiley:.
 
 *disclaimer* : Je ne peux pas garantir que la même procédure marche pour tout le monde, ne suivez pas non plus aveuglement la procédure, elle peut changer ou varier d'un endroit à l'autre. Ensuite, ma SASU était un cas simple, dans la mesure ou je n'ai jamais gagné ou dépensé d'argent avec. Si vous avez des comptes à faire valider, ça peut compliquer l'affaire.
 
