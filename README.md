@@ -56,7 +56,7 @@ Si tout se passe bien, on reçoit une confirmation avec à nouveau des Kbis à j
 
 2. Passer un coup de fil à sa banque, pour le dire qu'on veut fermer le compte et qu'ils peuvent arrêter de prendre des frais bancaires dessus ! Et voir avec eux comment on fait. Pour moi un simple mail avec mon RIB et un Kbis a suffi.
 
-3. Effectuer une petite danse de la joie, c'est fini.
+3. Effectuer une petite danse de la joie, c'est fini :tada:.
 
 # Coût de la procédure
 
